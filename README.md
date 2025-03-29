@@ -17,4 +17,4 @@ This repository contains the code used to perform the upstream and downstream st
 
 7.- Hubs-Networks_ALLFUNGI.R: This Script performs network analysis using the Spiec-Easi R package. 
 
-8.- 8.-Drougth-Analysis.R: This Script with all analyses according to the results of drought stress.
+8.-Drougth-Analysis.R: This Script with all analyses according to the results of drought stress.
